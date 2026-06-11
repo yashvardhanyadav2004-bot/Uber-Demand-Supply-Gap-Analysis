@@ -1,4 +1,6 @@
 # 🚖 Uber Demand–Supply Gap Analysis
+## 📊 Dashboard Preview
+![Dashboard](Dashboard.png)
 
 ## 📌 Project Overview
 
